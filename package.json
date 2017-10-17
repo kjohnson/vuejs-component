@@ -3,5 +3,8 @@
   "description": "A Vue.js project",
   "version": "1.0.0",
   "author": "kjohnson <me@kylebjohnson.me>",
-  "private": true
+  "private": true,
+  "dependencies": {
+    "vue": "^2.4.4"
+  }
 }
