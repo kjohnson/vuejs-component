@@ -8,7 +8,7 @@ An example VueJS Component, which can be installed on another project.
 ## Installation
 
 ```
-npm install https://github.com/kjohnson/vuejs-component/ --save
+npm install https://github.com/kjohnson/vuejs-component.git --save
 ```
 
 The component(s) can be registered automatically as a plugin, or...
